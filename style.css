@@ -1,0 +1,6 @@
+#calculator {
+  user-select: none;
+}
+#display {
+  user-select: text;
+}
